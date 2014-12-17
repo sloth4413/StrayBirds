@@ -2,6 +2,7 @@ StrayBirds
 ==========
 
 基于 GitHub Pages 搭建的极简博客，所有操作都可以直接通过浏览器完成。
+在原有fork上增加了一个评论功能,如果需要原有功能请参考@minixalpha的https://github.com/minixalpha/StrayBirds
 
 ## 示例
 
