@@ -1,5 +1,5 @@
 ﻿---
-layout: default
+layout: commit
 title: Java 中的并发
 ---
 
