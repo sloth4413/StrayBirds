@@ -1,4 +1,4 @@
-﻿---
+---
 layout: commit
 title: 在网上安了个家
 ---
