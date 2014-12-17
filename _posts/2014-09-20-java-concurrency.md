@@ -1,4 +1,4 @@
-﻿---
+---
 layout: commit
 title: Java 中的并发
 ---
