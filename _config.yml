@@ -1,5 +1,5 @@
 username: sloth4413
-baseurl: /pi1024
+baseurl: /
 markdown: redcarpet
 safe: false
 pygments: true
